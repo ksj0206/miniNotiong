@@ -1,0 +1,2 @@
+# miniNotiong
+create my notion
